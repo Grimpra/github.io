@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    padding: 30px 0px;
+    background-color: brown;
+}
+
+.footer {
+    display: flex;
+    padding: 30px 0px;
+    background-color: rgb(79, green, blue);
+}
+.main {
+    display: flex;
+}
+
+.left-aside {
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right-aside {
+    width: 50|%;
+    b
+}
